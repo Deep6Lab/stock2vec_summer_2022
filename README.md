@@ -1,0 +1,1 @@
+# stock2vec_summer_2022
